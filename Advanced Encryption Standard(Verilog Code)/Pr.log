@@ -1,0 +1,17 @@
+Command: /home/users14/ad477306/Verilog/Project/./simv -l Pr.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-9_Full64; Runtime version N-2017.12-SP2-9_Full64;  May  9 22:37 2023
+VCD+ Writer N-2017.12-SP2-9_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+***************************************************************************************************************
+************************************************** Encryption *************************************************
+***************************************************************************************************************
+                   0 Test_Data = 54776f204f6e65204e696e652054776f Key = 5468617473206d79204b756e67204675 Output_Data = 29c3505f571420f6402299b31a02d73a Cipher_Key = 28fddef86da4244accc0a4fe3b316f26
+***************************************************************************************************************
+************************************************** Decryption *************************************************
+***************************************************************************************************************
+                  10 Cipher_Text = 29c3505f571420f6402299b31a02d73a   Cipher_Key = 28fddef86da4244accc0a4fe3b316f26 Ret_Data = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Original_Key = 5504f9e40d76c8806e85ed0053561895
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 10000 ps
+CPU Time:      0.230 seconds;       Data structure size:   0.6Mb
+Tue May  9 22:37:02 2023
