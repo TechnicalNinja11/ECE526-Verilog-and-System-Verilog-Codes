@@ -1,0 +1,95 @@
+Command: /home/users14/ad477306/Verilog/Lab4/./simv -l Lab4.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-9_Full64; Runtime version N-2017.12-SP2-9_Full64;  Mar  9 23:26 2023
+VCD+ Writer N-2017.12-SP2-9_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+			****************************Simulation********************************			
+                  20 R= xxxxxxxx CLK = 1 DATA = xxxxxxxx
+                  24 R= 00000000 CLK = 1 DATA = xxxxxxxx
+                  40 R= 00000000 CLK = 0 DATA = xxxxxxxx
+                  60 R= 00000000 CLK = 1 DATA = xxxxxxxx
+                  80 R= 00000000 CLK = 0 DATA = xxxxxxxx
+                 100 R= 00000000 CLK = 1 DATA = 00000000
+                 120 R= 00000000 CLK = 0 DATA = 00000000
+                 140 R= 00000000 CLK = 1 DATA = 00000000
+                 160 R= 00000000 CLK = 0 DATA = 00000000
+                 180 R= 00000000 CLK = 1 DATA = 00000000
+			***************************ENABLE LOW********************************			
+                 220 R= 00000000 CLK = 1 DATA = 11111111
+                 240 R= 00000000 CLK = 0 DATA = 11111111
+                 260 R= 00000000 CLK = 1 DATA = 11111111
+                 280 R= 00000000 CLK = 0 DATA = 11111111
+                 300 R= 00000000 CLK = 1 DATA = 11111111
+                 320 R= 00000000 CLK = 0 DATA = 11111111
+                 340 R= 00000000 CLK = 1 DATA = 11111111
+                 360 R= 00000000 CLK = 0 DATA = 10101010
+                 380 R= 00000000 CLK = 1 DATA = 10101010
+                 400 R= 00000000 CLK = 0 DATA = 10101010
+                 416 R= 10101010 CLK = 0 DATA = 10101010
+                 420 R= 10101010 CLK = 1 DATA = 10101010
+                 440 R= 10101010 CLK = 0 DATA = 10101010
+                 460 R= 10101010 CLK = 1 DATA = 10101010
+                 480 R= 10101010 CLK = 0 DATA = 10101010
+                 500 R= 10101010 CLK = 1 DATA = 10101010
+                 520 R= 10101010 CLK = 0 DATA = 00001111
+                 540 R= 10101010 CLK = 1 DATA = 00001111
+                 560 R= 10101010 CLK = 0 DATA = 00001111
+                 572 R= 00001111 CLK = 0 DATA = 00001111
+                 580 R= 00001111 CLK = 1 DATA = 00001111
+                 600 R= 00001111 CLK = 0 DATA = 00001111
+                 620 R= 00001111 CLK = 1 DATA = 00001111
+                 640 R= 00001111 CLK = 0 DATA = 00001111
+                 660 R= 00001111 CLK = 1 DATA = 00001111
+                 680 R= 00001111 CLK = 0 DATA = 11110000
+                 700 R= 00001111 CLK = 1 DATA = 11110000
+                 720 R= 00001111 CLK = 0 DATA = 11110000
+                 732 R= 11110000 CLK = 0 DATA = 11110000
+                 740 R= 11110000 CLK = 1 DATA = 11110000
+                 760 R= 11110000 CLK = 0 DATA = 11110000
+                 780 R= 11110000 CLK = 1 DATA = 11110000
+                 800 R= 11110000 CLK = 0 DATA = 11110000
+                 820 R= 11110000 CLK = 1 DATA = 11110000
+			***************************ENABLE HIGH********************************			
+                 860 R= 11110000 CLK = 1 DATA = 11111111
+                 880 R= 11110000 CLK = 0 DATA = 11111111
+                 892 R= 11111111 CLK = 0 DATA = 11111111
+                 900 R= 11111111 CLK = 1 DATA = 11111111
+                 920 R= 11111111 CLK = 0 DATA = 11111111
+                 940 R= 11111111 CLK = 1 DATA = 11111111
+                 960 R= 11111111 CLK = 0 DATA = 11111111
+                 980 R= 11111111 CLK = 1 DATA = 11111111
+                1000 R= 11111111 CLK = 0 DATA = 10101010
+                1020 R= 11111111 CLK = 1 DATA = 10101010
+                1040 R= 11111111 CLK = 0 DATA = 10101010
+                1060 R= 11111111 CLK = 1 DATA = 10101010
+                1080 R= 11111111 CLK = 0 DATA = 10101010
+                1100 R= 11111111 CLK = 1 DATA = 10101010
+                1120 R= 11111111 CLK = 0 DATA = 10101010
+                1140 R= 11111111 CLK = 1 DATA = 10101010
+                1160 R= 11111111 CLK = 0 DATA = 00001111
+                1180 R= 11111111 CLK = 1 DATA = 00001111
+                1200 R= 11111111 CLK = 0 DATA = 00001111
+                1220 R= 11111111 CLK = 1 DATA = 00001111
+                1240 R= 11111111 CLK = 0 DATA = 00001111
+                1260 R= 11111111 CLK = 1 DATA = 00001111
+                1280 R= 11111111 CLK = 0 DATA = 00001111
+                1300 R= 11111111 CLK = 1 DATA = 00001111
+                1320 R= 11111111 CLK = 0 DATA = 11110000
+                1340 R= 11111111 CLK = 1 DATA = 11110000
+                1360 R= 11111111 CLK = 0 DATA = 11110000
+                1380 R= 11111111 CLK = 1 DATA = 11110000
+                1400 R= 11111111 CLK = 0 DATA = 11110000
+                1420 R= 11111111 CLK = 1 DATA = 11110000
+                1440 R= 11111111 CLK = 0 DATA = 11110000
+                1460 R= 11111111 CLK = 1 DATA = 11110000
+                1480 R = 11111111
+                1500 R= 11111111 CLK = 1 DATA = 11111111
+                1520 R= 11111111 CLK = 0 DATA = 11111111
+                1540 R= 11111111 CLK = 1 DATA = 11111111
+                1560 R= 11111111 CLK = 0 DATA = 11111111
+$finish called from file "REG_test.v", line 65.
+$finish at simulation time                15800
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1580000 ps
+CPU Time:      0.220 seconds;       Data structure size:   0.0Mb
+Thu Mar  9 23:26:44 2023

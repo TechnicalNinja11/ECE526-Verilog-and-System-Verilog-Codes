@@ -1,0 +1,115 @@
+Command: /home/users14/ad477306/Verilog/Lab5/./simv -l Lab5.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-9_Full64; Runtime version N-2017.12-SP2-9_Full64;  Mar 19 18:20 2023
+VCD+ Writer N-2017.12-SP2-9_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+                   0 CNT = xxx CLOCK = 0 RESET = 1 ENA = x LOAD = 0 DATA = xxx
+                   3 CNT = 000 CLOCK = 0 RESET = 0 ENA = x LOAD = 0 DATA = xxx
+                  10 CNT = 000 CLOCK = 1 RESET = 0 ENA = x LOAD = 0 DATA = xxx
+                  13 CNT = 000 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                  20 CNT = 000 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                  30 CNT = 000 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                  40 CNT = 000 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                  50 CNT = 000 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                  60 CNT = 000 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                  70 CNT = 001 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                  80 CNT = 001 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                  90 CNT = 002 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 100 CNT = 002 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 110 CNT = 003 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 120 CNT = 003 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 130 CNT = 004 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 140 CNT = 004 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 150 CNT = 005 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 160 CNT = 005 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 170 CNT = 006 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 180 CNT = 006 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 190 CNT = 007 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 200 CNT = 007 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 210 CNT = 008 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 213 CNT = 008 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 220 CNT = 008 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 230 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 240 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 250 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 260 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 270 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 280 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 290 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 300 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 310 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 320 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 330 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 340 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 350 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 360 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 370 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 380 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 390 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 400 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 410 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 420 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 430 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 440 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 450 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 460 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 470 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 480 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 490 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 500 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 510 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 520 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 530 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 540 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 550 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 560 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 570 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 580 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 590 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 600 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 610 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 620 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 630 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 640 CNT = 0f0 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 650 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 1 DATA = 0f0
+                 653 CNT = 0f0 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 656 CNT = 000 CLOCK = 1 RESET = 0 ENA = 1 LOAD = 0 DATA = 000
+                 660 CNT = 000 CLOCK = 0 RESET = 0 ENA = 1 LOAD = 0 DATA = 000
+                 666 CNT = 000 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 670 CNT = 000 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 680 CNT = 000 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 690 CNT = 000 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 700 CNT = 000 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 710 CNT = 001 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 720 CNT = 001 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 730 CNT = 002 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 740 CNT = 002 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 750 CNT = 003 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 760 CNT = 003 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 770 CNT = 004 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 780 CNT = 004 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 790 CNT = 005 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 800 CNT = 005 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 810 CNT = 006 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 820 CNT = 006 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 830 CNT = 007 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 840 CNT = 007 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 850 CNT = 008 CLOCK = 1 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 860 CNT = 008 CLOCK = 0 RESET = 1 ENA = 1 LOAD = 0 DATA = 000
+                 866 CNT = 000 CLOCK = 0 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 870 CNT = 000 CLOCK = 1 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 880 CNT = 000 CLOCK = 0 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 890 CNT = 000 CLOCK = 1 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 900 CNT = 000 CLOCK = 0 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 910 CNT = 000 CLOCK = 1 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 920 CNT = 000 CLOCK = 0 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 930 CNT = 000 CLOCK = 1 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 940 CNT = 000 CLOCK = 0 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 950 CNT = 000 CLOCK = 1 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+                 960 CNT = 000 CLOCK = 0 RESET = 0 ENA = 0 LOAD = 0 DATA = 000
+$finish called from file "Top_tb.v", line 58.
+$finish at simulation time                  966
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 966 ns
+CPU Time:      0.220 seconds;       Data structure size:   0.0Mb
+Sun Mar 19 18:20:16 2023

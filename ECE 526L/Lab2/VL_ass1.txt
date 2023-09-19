@@ -1,0 +1,51 @@
+module mag_comp (
+    input [1:0] a, b, 	// two-bit inputs to be compared
+    output eq,        	// output indicating if a = b
+    output aGrb,     	 // output indicating if a > b
+    output bGra      	 // output indicating if b > a
+);
+
+wire a1, b1, aGrb1, aGrb2, aGrb3, bGr, bGr1, bGr2, eq1, eq2;
+
+// compare MSBs of a and b
+xor x1(aGrb1, a[1], b[1]);
+and a2(aGrb2, a[1], ~b[1]);
+and a3(aGrb3, ~a[1], b[1]);
+or o1(aGrb, aGrb1, aGrb2, aGrb3);
+
+// compare LSBs of a and b
+xor x2(bGr1, a[0], b[0]);
+and a4(bGr2, ~a[0], b[0]);
+or o2(bGr, bGr1, bGr2);
+
+// check if a = b
+xor x3(eq1, a[0], b[0]);
+xor x4(eq2, a[1], b[1]);
+and a5(eq, eq1, eq2);
+
+endmodule
+
+
+
+
+
+
+module testbench;
+  // inputs
+  reg [1:0] a = 2'b00;
+  reg [1:0] b = 2'b11;
+
+  // outputs
+  wire eq, aGrb, bGra;
+
+  // instantiate module and connect ports using ordered list
+  mag_comp Comp1(eq, aGrb, bGra, a, b);
+
+  // test the module
+  initial begin
+    #10 a = 2'b11; b = 2'b00;
+    #10 a = 2'b10; b = 2'b10;
+    #10 a = 2'b01; b = 2'b10;
+  end
+endmodule
+

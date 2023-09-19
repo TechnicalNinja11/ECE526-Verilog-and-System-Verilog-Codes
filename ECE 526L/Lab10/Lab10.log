@@ -1,0 +1,26 @@
+Command: /home/users14/ad477306/Verilog/Lab10/./simv -l Lab10.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-9_Full64; Runtime version N-2017.12-SP2-9_Full64;  May 17 23:18 2023
+VCD+ Writer N-2017.12-SP2-9_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+Empty flag=0
+Full flag=0
+Test simultaneous write and read in the middle:
+Read data=xx, Write data=cc
+Test writing and reading at all locations:
+Read data=xx, Expected data=00000000
+Read data=xx, Expected data=00000001
+Read data=xx, Expected data=00000002
+Read data=xx, Expected data=00000003
+Read data=xx, Expected data=00000004
+Read data=xx, Expected data=00000005
+Read data=xx, Expected data=00000006
+Read data=xx, Expected data=00000007
+Test writing and reading at all locations:
+Count= 0, Empty=0, Full=0
+$finish called from file "FIFO_tb.v", line 116.
+$finish at simulation time                  460
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 460 ns
+CPU Time:      0.230 seconds;       Data structure size:   0.0Mb
+Wed May 17 23:18:09 2023

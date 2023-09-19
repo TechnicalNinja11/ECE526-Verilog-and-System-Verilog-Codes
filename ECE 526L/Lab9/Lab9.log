@@ -1,0 +1,51 @@
+Command: /home/users14/ad477306/Verilog/Lab9/./simv -l Lab9.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-9_Full64; Runtime version N-2017.12-SP2-9_Full64;  May  3 23:04 2023
+VCD+ Writer N-2017.12-SP2-9_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+                   0 ALU_OUT = xxxxxxxx CF = x OF = x SF = x ZF = x OPCODE= 0000 A = 11111111 B = 11111111 EN = 0 OE = 0
+************************************************** Adiition *************************************************
+                   3 ALU_OUT = xxxxxxxx CF = x OF = x SF = x ZF = x OPCODE= 0000 A = 11111111 B = 11111111 EN = 1 OE = 1
+                  18 ALU_OUT = xxxxxxxx CF = x OF = x SF = x ZF = x OPCODE= 0010 A = 11111111 B = 11111111 EN = 1 OE = 1
+                  25 ALU_OUT = 11111110 CF = x OF = x SF = x ZF = x OPCODE= 0010 A = 11111111 B = 11111111 EN = 1 OE = 1
+**************************************************    XOR   *************************************************
+                  28 ALU_OUT = 11111110 CF = x OF = x SF = x ZF = x OPCODE= 0010 A = 01100111 B = 00011110 EN = 1 OE = 1
+                  35 ALU_OUT = 10000101 CF = 1 OF = 0 SF = 1 ZF = 0 OPCODE= 0010 A = 01100111 B = 00011110 EN = 1 OE = 1
+                  38 ALU_OUT = 10000101 CF = 1 OF = 0 SF = 1 ZF = 0 OPCODE= 0110 A = 01100111 B = 00011110 EN = 1 OE = 1
+                  45 ALU_OUT = 01111001 CF = 0 OF = 1 SF = 1 ZF = 0 OPCODE= 0110 A = 01100111 B = 00011110 EN = 1 OE = 1
+************************************************** Adiition *************************************************
+                  48 ALU_OUT = 01111001 CF = 0 OF = 1 SF = 1 ZF = 0 OPCODE= 0110 A = 00000000 B = 00000000 EN = 1 OE = 1
+                  55 ALU_OUT = 00000000 CF = 0 OF = 0 SF = 0 ZF = 0 OPCODE= 0110 A = 00000000 B = 00000000 EN = 1 OE = 1
+                  58 ALU_OUT = 00000000 CF = 0 OF = 0 SF = 0 ZF = 0 OPCODE= 0010 A = 00000000 B = 00000000 EN = 1 OE = 1
+                  65 ALU_OUT = 00000000 CF = 0 OF = 0 SF = 0 ZF = 1 OPCODE= 0010 A = 00000000 B = 00000000 EN = 1 OE = 1
+                  68 ALU_OUT = 00000000 CF = 0 OF = 0 SF = 0 ZF = 1 OPCODE= 0010 A = 11110101 B = 01011010 EN = 1 OE = 1
+                  75 ALU_OUT = 01001111 CF = 0 OF = 0 SF = 0 ZF = 1 OPCODE= 0010 A = 11110101 B = 01011010 EN = 1 OE = 1
+                  78 ALU_OUT = 01001111 CF = 0 OF = 0 SF = 0 ZF = 1 OPCODE= 0010 A = 11110101 B = 01011010 EN = 0 OE = 1
+************************************************* Substraction ************************************************
+                  88 ALU_OUT = 01001111 CF = 0 OF = 0 SF = 0 ZF = 1 OPCODE= 0010 A = 11110101 B = 01011010 EN = 1 OE = 1
+                  95 ALU_OUT = 01001111 CF = 1 OF = 0 SF = 0 ZF = 0 OPCODE= 0010 A = 11110101 B = 01011010 EN = 1 OE = 1
+                  98 ALU_OUT = 01001111 CF = 1 OF = 0 SF = 0 ZF = 0 OPCODE= 0011 A = 11110101 B = 01011010 EN = 1 OE = 1
+                 105 ALU_OUT = 10011011 CF = 1 OF = 0 SF = 0 ZF = 0 OPCODE= 0011 A = 11110101 B = 01011010 EN = 1 OE = 1
+                 108 ALU_OUT = 10011011 CF = 1 OF = 0 SF = 0 ZF = 0 OPCODE= 0011 A = 00010110 B = 01011010 EN = 1 OE = 1
+                 115 ALU_OUT = 10111100 CF = 0 OF = 0 SF = 1 ZF = 0 OPCODE= 0011 A = 00010110 B = 01011010 EN = 1 OE = 1
+                 118 ALU_OUT = zzzzzzzz CF = 0 OF = 0 SF = 1 ZF = 0 OPCODE= 0011 A = 00010110 B = 01011010 EN = 1 OE = 0
+                 125 ALU_OUT = zzzzzzzz CF = 1 OF = 1 SF = 1 ZF = 0 OPCODE= 0011 A = 00010110 B = 01011010 EN = 1 OE = 0
+***************************************************   AND    **************************************************
+                 128 ALU_OUT = 10111100 CF = 1 OF = 1 SF = 1 ZF = 0 OPCODE= 0011 A = 00010110 B = 01011010 EN = 1 OE = 1
+*****************************************************  OR  ****************************************************
+                 138 ALU_OUT = 10111100 CF = 1 OF = 1 SF = 1 ZF = 0 OPCODE= 0100 A = 00010110 B = 01011010 EN = 1 OE = 1
+                 145 ALU_OUT = 00010010 CF = 1 OF = 1 SF = 1 ZF = 0 OPCODE= 0100 A = 00010110 B = 01011010 EN = 1 OE = 1
+*********************************************** Undefined Opcode **********************************************
+                 148 ALU_OUT = 00010010 CF = 1 OF = 1 SF = 1 ZF = 0 OPCODE= 0101 A = 00010110 B = 01011010 EN = 1 OE = 1
+                 155 ALU_OUT = 01011110 CF = 0 OF = 0 SF = 0 ZF = 0 OPCODE= 0101 A = 00010110 B = 01011010 EN = 1 OE = 1
+**************************************************  Negation  *************************************************
+                 158 ALU_OUT = 01011110 CF = 0 OF = 0 SF = 0 ZF = 0 OPCODE= 1001 A = 00010110 B = 01011010 EN = 1 OE = 1
+                 168 ALU_OUT = 01011110 CF = 0 OF = 0 SF = 0 ZF = 0 OPCODE= 0111 A = 00010110 B = 01011010 EN = 1 OE = 1
+                 175 ALU_OUT = 11101001 CF = 0 OF = 0 SF = 0 ZF = 0 OPCODE= 0111 A = 00010110 B = 01011010 EN = 1 OE = 1
+                 185 ALU_OUT = 11101001 CF = 0 OF = 0 SF = 1 ZF = 0 OPCODE= 0111 A = 00010110 B = 01011010 EN = 1 OE = 1
+$finish called from file "alu_tb.v", line 63.
+$finish at simulation time                 2180
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 218000 ps
+CPU Time:      0.250 seconds;       Data structure size:   0.0Mb
+Wed May  3 23:04:27 2023

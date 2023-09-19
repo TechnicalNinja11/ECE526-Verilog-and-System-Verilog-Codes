@@ -1,0 +1,59 @@
+Command: /home/users14/ad477306/Verilog/Lab7/./simv -l Lab7_2.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-9_Full64; Runtime version N-2017.12-SP2-9_Full64;  Apr 17 01:42 2023
+VCD+ Writer N-2017.12-SP2-9_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+DATA = xx, ADDR = 00
+DATA = xx, ADDR = 01
+DATA = xx, ADDR = 02
+DATA = xx, ADDR = 03
+DATA = 58, ADDR = 04
+DATA = ed, ADDR = 05
+DATA = b7, ADDR = 06
+DATA = 34, ADDR = 07
+DATA = c9, ADDR = 08
+DATA = 8f, ADDR = 09
+DATA = a0, ADDR = 0a
+DATA = 9b, ADDR = 0b
+DATA = 65, ADDR = 0c
+DATA = 11, ADDR = 0d
+DATA = 03, ADDR = 0e
+DATA = 4c, ADDR = 0f
+DATA = da, ADDR = 10
+DATA = 7e, ADDR = 11
+DATA = f2, ADDR = 12
+DATA = 26, ADDR = 13
+DATA = 86, ADDR = 14
+DATA = 95, ADDR = 15
+DATA = fd, ADDR = 16
+DATA = b1, ADDR = 17
+DATA = xx, ADDR = 18
+DATA = xx, ADDR = 19
+DATA = xx, ADDR = 1a
+DATA = xx, ADDR = 1b
+DATA = 12, ADDR = 1c
+DATA = af, ADDR = 1d
+DATA = 33, ADDR = 1e
+DATA = xx, ADDR = 1f
+***********Original***********
+DATA = da, ADDR = 10
+DATA = 7e, ADDR = 11
+DATA = f2, ADDR = 12
+DATA = 26, ADDR = 13
+DATA = 86, ADDR = 14
+DATA = 95, ADDR = 15
+DATA = fd, ADDR = 16
+DATA = b1, ADDR = 17
+***********Scrambled***********
+DATA = 73, ADDR = 10
+DATA = 3f, ADDR = 11
+DATA = 75, ADDR = 12
+DATA = 2c, ADDR = 13
+DATA = 68, ADDR = 14
+DATA = c9, ADDR = 15
+DATA = df, ADDR = 16
+DATA = c5, ADDR = 17
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 496 ns
+CPU Time:      0.220 seconds;       Data structure size:   0.0Mb
+Mon Apr 17 01:42:46 2023

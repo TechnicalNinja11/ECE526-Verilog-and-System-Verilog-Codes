@@ -1,0 +1,21 @@
+Command: /home/users14/ad477306/Verilog/Lab8/./simv -l Lab8_non_exh.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-9_Full64; Runtime version N-2017.12-SP2-9_Full64;  May  2 14:48 2023
+VCD+ Writer N-2017.12-SP2-9_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+in= 1 C0= 1 C1= 1 C2= 1 C3= 1 | actual_out=   4 | expec_out=   4
+in= 2 C0= 2 C1= 2 C2= 2 C3= 2 | actual_out=  16 | expec_out=  16
+in= 3 C0= 3 C1= 3 C2= 3 C3= 3 | actual_out=  36 | expec_out=  36
+in= 4 C0= 4 C1= 4 C2= 4 C3= 4 | actual_out=  64 | expec_out=  64
+in= 5 C0= 5 C1= 5 C2= 5 C3= 5 | actual_out= 100 | expec_out= 100
+in= 4 C0= 1 C1= 2 C2= 3 C3= 4 | actual_out=  40 | expec_out=  40
+in= 5 C0= 2 C1= 3 C2= 4 C3= 5 | actual_out=  70 | expec_out=  70
+in= 6 C0= 3 C1= 4 C2= 5 C3= 6 | actual_out= 108 | expec_out= 108
+in= 7 C0= 4 C1= 5 C2= 6 C3= 7 | actual_out= 154 | expec_out= 154
+in= 8 C0= 5 C1= 6 C2= 7 C3= 8 | actual_out= 208 | expec_out= 208
+$finish called from file "non_exhstv.v", line 53.
+$finish at simulation time               520000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 520000 ps
+CPU Time:      0.240 seconds;       Data structure size:   0.0Mb
+Tue May  2 14:48:16 2023

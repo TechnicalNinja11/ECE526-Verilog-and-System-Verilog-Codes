@@ -1,0 +1,26 @@
+Command: /home/users14/ad477306/Verilog/Lab6/./simv -l Lab6.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-9_Full64; Runtime version N-2017.12-SP2-9_Full64;  Apr  5 14:37 2023
+VCD+ Writer N-2017.12-SP2-9_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+******************************** SEL = 0 *******************************
+                   0 A = 1010 B = 0011 SEL = 0 OUT1 = 0 OUT4 = 10 OUT5 = 010 OUT6 = 1010
+                  10 A = 1011 B = 0100 SEL = 0 OUT1 = 1 OUT4 = 11 OUT5 = 011 OUT6 = 1011
+******************************** SEL = 1 *******************************
+                  20 A = 1011 B = 1011 SEL = 0 OUT1 = 1 OUT4 = 11 OUT5 = 011 OUT6 = 1011
+                  30 A = 1011 B = 1011 SEL = 1 OUT1 = 1 OUT4 = 11 OUT5 = 011 OUT6 = 1011
+                  40 A = 1011 B = 0100 SEL = 1 OUT1 = 0 OUT4 = 00 OUT5 = 100 OUT6 = 0100
+******************************** A != B *******************************
+                  50 A = 1011 B = 1011 SEL = 1 OUT1 = 1 OUT4 = 11 OUT5 = 011 OUT6 = 1011
+                  60 A = 1011 B = 1011 SEL = x OUT1 = 1 OUT4 = 11 OUT5 = 011 OUT6 = 1011
+                  70 A = 1001 B = 0110 SEL = x OUT1 = x OUT4 = xx OUT5 = xxx OUT6 = xxxx
+******************************** A = B *******************************
+                  80 A = 1011 B = 1100 SEL = x OUT1 = x OUT4 = xx OUT5 = xxx OUT6 = 1xxx
+                 100 A = 1101 B = 1101 SEL = x OUT1 = 1 OUT4 = 01 OUT5 = 101 OUT6 = 1101
+                 110 A = 1001 B = 1001 SEL = x OUT1 = 1 OUT4 = 01 OUT5 = 001 OUT6 = 1001
+$finish called from file "mux_tb.v", line 60.
+$finish at simulation time                  120
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 120 ns
+CPU Time:      0.220 seconds;       Data structure size:   0.0Mb
+Wed Apr  5 14:37:03 2023

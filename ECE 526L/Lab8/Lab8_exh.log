@@ -1,0 +1,67 @@
+Command: /home/users14/ad477306/Verilog/Lab8/./simv -l Lab8_exh.log
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-9_Full64; Runtime version N-2017.12-SP2-9_Full64;  May  2 15:04 2023
+VCD+ Writer N-2017.12-SP2-9_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+in= x C0= x C1= x C2= x C3= x | actual_out=   x | expec_out=   x
+in= 0 C0= 4 C1= 1 C2= 9 C3= 3 | actual_out=   0 | expec_out=   0
+in= 1 C0=13 C1=13 C2= 5 C3= 2 | actual_out=  33 | expec_out=  33
+in= 3 C0= 1 C1=13 C2= 6 C3=13 | actual_out=  99 | expec_out=  99
+in= 4 C0=13 C1=12 C2= 9 C3= 6 | actual_out= 160 | expec_out= 160
+in= 6 C0= 5 C1=10 C2= 5 C3= 7 | actual_out= 162 | expec_out= 162
+in= 7 C0= 2 C1=15 C2= 2 C3=14 | actual_out= 231 | expec_out= 231
+in= 9 C0= 8 C1= 5 C2=12 C3=13 | actual_out= 342 | expec_out= 342
+in=10 C0=13 C1= 5 C2= 3 C3=10 | actual_out= 310 | expec_out= 310
+in=12 C0= 0 C1= 0 C2=10 C3=13 | actual_out= 276 | expec_out= 276
+in=13 C0= 6 C1= 3 C2=13 C3= 3 | actual_out= 325 | expec_out= 325
+in=15 C0=11 C1= 5 C2= 2 C3=14 | actual_out= 480 | expec_out= 480
+in=13 C0= 0 C1=15 C2= 3 C3=10 | actual_out= 364 | expec_out= 364
+in=10 C0= 2 C1=12 C2= 2 C3=10 | actual_out= 260 | expec_out= 260
+in= 1 C0= 3 C1= 8 C2= 8 C3= 9 | actual_out=  28 | expec_out=  28
+in=11 C0= 5 C1= 6 C2= 6 C3=14 | actual_out= 341 | expec_out= 341
+in=12 C0= 6 C1=10 C2=11 C3= 1 | actual_out= 336 | expec_out= 336
+in= 5 C0= 8 C1=15 C2=11 C3=10 | actual_out= 220 | expec_out= 220
+in=14 C0= 9 C1= 5 C2= 1 C3= 9 | actual_out= 336 | expec_out= 336
+in= 2 C0=11 C1=12 C2=15 C3=15 | actual_out= 106 | expec_out= 106
+in= 8 C0=12 C1= 7 C2=15 C3=12 | actual_out= 368 | expec_out= 368
+in=11 C0=14 C1= 9 C2= 9 C3= 0 | actual_out= 352 | expec_out= 352
+in= 7 C0=15 C1= 1 C2= 6 C3=12 | actual_out= 238 | expec_out= 238
+in= 2 C0= 8 C1= 1 C2= 7 C3=13 | actual_out=  58 | expec_out=  58
+in= 2 C0=14 C1= 2 C2=13 C3= 9 | actual_out=  76 | expec_out=  76
+in=15 C0= 3 C1= 4 C2= 5 C3= 8 | actual_out= 300 | expec_out= 300
+in=11 C0= 9 C1= 5 C2=15 C3=10 | actual_out= 429 | expec_out= 429
+in= 8 C0= 6 C1= 7 C2=14 C3=12 | actual_out= 312 | expec_out= 312
+in=10 C0= 6 C1= 8 C2= 3 C3= 3 | actual_out= 200 | expec_out= 200
+in=15 C0= 3 C1=10 C2=15 C3= 4 | actual_out= 480 | expec_out= 480
+in= 7 C0=11 C1=11 C2= 6 C3=10 | actual_out= 266 | expec_out= 266
+in= 9 C0=13 C1=13 C2=10 C3= 5 | actual_out= 369 | expec_out= 369
+in= 5 C0=15 C1=14 C2= 9 C3= 4 | actual_out= 210 | expec_out= 210
+in= 0 C0=10 C1= 0 C2=11 C3=14 | actual_out=   0 | expec_out=   0
+in=12 C0=10 C1=13 C2= 0 C3= 3 | actual_out= 312 | expec_out= 312
+in= 6 C0=14 C1= 7 C2= 2 C3=10 | actual_out= 198 | expec_out= 198
+in= 6 C0= 8 C1= 9 C2= 3 C3= 8 | actual_out= 168 | expec_out= 168
+in= 4 C0= 3 C1= 4 C2= 5 C3= 9 | actual_out=  84 | expec_out=  84
+in=11 C0=13 C1= 9 C2= 6 C3=13 | actual_out= 451 | expec_out= 451
+in= 6 C0=10 C1= 6 C2= 8 C3= 5 | actual_out= 174 | expec_out= 174
+in= 6 C0= 4 C1= 7 C2= 9 C3= 9 | actual_out= 174 | expec_out= 174
+in= 4 C0= 8 C1= 8 C2=11 C3=13 | actual_out= 160 | expec_out= 160
+in= 7 C0=14 C1= 8 C2=12 C3=12 | actual_out= 322 | expec_out= 322
+in=13 C0= 9 C1=12 C2=14 C3= 6 | actual_out= 533 | expec_out= 533
+in=10 C0=13 C1= 6 C2=15 C3= 0 | actual_out= 340 | expec_out= 340
+in= 0 C0=10 C1=14 C2=10 C3= 0 | actual_out=   0 | expec_out=   0
+in= 0 C0=10 C1= 9 C2= 7 C3= 1 | actual_out=   0 | expec_out=   0
+in= 0 C0= 0 C1= 6 C2= 6 C3= 3 | actual_out=   0 | expec_out=   0
+in= 0 C0=12 C1= 6 C2= 8 C3= 4 | actual_out=   0 | expec_out=   0
+in= 0 C0=11 C1=15 C2= 9 C3= 6 | actual_out=   0 | expec_out=   0
+in= 0 C0= 1 C1= 7 C2= 1 C3= 7 | actual_out=   0 | expec_out=   0
+in= 0 C0= 0 C1= 5 C2= 5 C3= 9 | actual_out=   0 | expec_out=   0
+in= 0 C0= 1 C1= 5 C2= 8 C3=10 | actual_out=   0 | expec_out=   0
+in= 0 C0= 3 C1=12 C2=10 C3=12 | actual_out=   0 | expec_out=   0
+in= 0 C0= 8 C1= 9 C2= 1 C3=13 | actual_out=   0 | expec_out=   0
+in= 0 C0= 6 C1=15 C2=10 C3=15 | actual_out=   0 | expec_out=   0
+$finish called from file "exhstv.v", line 52.
+$finish at simulation time              2770000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 2770000 ps
+CPU Time:      0.240 seconds;       Data structure size:   0.0Mb
+Tue May  2 15:04:09 2023
